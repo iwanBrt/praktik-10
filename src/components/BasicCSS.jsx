@@ -1,6 +1,6 @@
 import React from 'react';
 // GANTI JADI INI:
-import './kartu.css';
+import './style_kartu.css';
 
 function BasicCSS() {
   return (
