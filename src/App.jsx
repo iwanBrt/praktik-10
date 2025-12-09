@@ -1,5 +1,5 @@
 import React from 'react';
-import BasicCSS from './components/basicCSS';
+import BasicCSS from './components/apaAjaDah';
 import CSSModules from './components/CSSModules';
 import StyledComponents from './components/StyledComponents';
 import TailwindCSS from './components/TailwindCSS';
